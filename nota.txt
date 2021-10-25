@@ -1,0 +1,1 @@
+precisa do plugin cordova-plugin-file-transfer
